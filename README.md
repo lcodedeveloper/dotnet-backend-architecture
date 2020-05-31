@@ -19,6 +19,6 @@ Any project needs common resources that are shared between all layers. This laye
 
 ## Tests
 
-Is very important to have a suite of automated tests in our project to enforce the quality of the code. In this layer there are to projects, onde for unitary tests and other for integration tests.
+Is very important to have a suite of automated tests in our project to enforce the quality of the code. In this layer there are two projects, one for unitary tests and other for integration tests.
 
 Developed by: Luã Falcão
