@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\3_Data\Data\Data.csproj" />
+    <ProjectReference Include="..\..\4_Shared\Helpers\Helpers.csproj" />
+    <ProjectReference Include="..\..\4_Shared\Services\LogService\LogService.csproj" />
+    <ProjectReference Include="..\..\4_Shared\Services\MailService\MailService.csproj" />
+  </ItemGroup>
+
+</Project>

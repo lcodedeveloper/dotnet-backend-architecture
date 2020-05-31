@@ -3,3 +3,21 @@
 ################################################################################
 
 /.vs/dotnet-ntier-architecture
+/1_Presentation/REST API/bin/Debug/netcoreapp3.0
+/1_Presentation/REST API/obj
+/2_Business/Domain/bin/Debug/netcoreapp3.0
+/2_Business/Domain/obj
+/2_Business/Facade/bin/Debug/netcoreapp3.0
+/2_Business/Facade/obj
+/3_Data/Data/bin/Debug/netcoreapp3.0
+/3_Data/Data/obj
+/4_Shared/Helpers/bin/Debug/netcoreapp3.0
+/4_Shared/Helpers/obj
+/4_Shared/Services/LogService/bin/Debug/netcoreapp3.0
+/4_Shared/Services/LogService/obj
+/4_Shared/Services/MailService/bin/Debug/netcoreapp3.0
+/4_Shared/Services/MailService/obj
+/5_Tests/IntegrationTests/bin/Debug/netcoreapp3.0
+/5_Tests/IntegrationTests/obj
+/5_Tests/UnitTests/bin/Debug/netcoreapp3.0
+/5_Tests/UnitTests/obj
